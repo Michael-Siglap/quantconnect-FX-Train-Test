@@ -1,7 +1,7 @@
 # quantconnect-FX-Train-Test
 A model for Train and Test which is back tested using Quantconnect.
 
-Choice of Instrument:
+Choice of Instrument: FOREX
 Foreign currency exchange markets run 24/7 and forex instruments fit perfectly for short-term day trading as they offer high volatility, large liquidity, low capital requirements, and low transactional costs. However, care should be taken to select an apt currency pair that matches the needs of day trading.
 
 Criteria of Selectoin:
